@@ -1,3 +1,8 @@
+
+   // Author: Ayaa Sibisi
+   // Date: October 2025
+   // Description: A class representing a cleaning service with rates and cost calculation.
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 public class TestCleaningServicesApp{
@@ -28,4 +33,5 @@ public class TestCleaningServicesApp{
         System.out.println("Total Service Fee: R"+service.calculateServiceCost());
 
     }
+
 }
