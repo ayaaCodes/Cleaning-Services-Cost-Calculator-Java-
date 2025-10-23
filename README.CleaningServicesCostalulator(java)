@@ -1,0 +1,29 @@
+# Cleaning Services Cost Calculator (Java)
+
+A simple Java console application to calculate the total cleaning cost for different service types.
+
+## Files
+- **CleaningServicesApp.java** – Class representing a cleaning service with rates and cost calculation.
+- **TestCleaningServicesApp.java** – Main program that collects user input and displays results.
+
+## Features
+- Demonstrates Object-Oriented Programming (OOP) principles.
+- Uses Scanner for user input and DecimalFormat for formatted output.
+- Calculates total cost based on normal hours.
+
+## Example Output
+Enter the type of service you are requesting(Cleaner, Gardner, Handy Man):
+Deep Cleaning
+Enter the number of hours required for the service:
+5
+Enter the normal hourly rate per day:
+150
+Enter the extra hourly rate per day
+200
+
+================Service Required=========================
+Service Required: Deep Cleaning
+Normal Hours: 5
+Normal Hourly Rate: R150.0
+Extra Rate: R200.0
+Total Service Fee: R750.00
